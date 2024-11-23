@@ -45,3 +45,10 @@ Visualize the results:
 View the predicted segmentation masks alongside the ground truth for model performance evaluation.
 Results
 The model can successfully segment tumor regions from brain MRI scans with a high degree of accuracy, as demonstrated by the Dice Coefficient metric.
+
+
+
+
+
+
+![{2D8BC86F-F2E2-4DAA-A35E-C467D27123C7}](https://github.com/user-attachments/assets/51f1b16f-65b8-4ea0-b69c-0c941bdef408)
